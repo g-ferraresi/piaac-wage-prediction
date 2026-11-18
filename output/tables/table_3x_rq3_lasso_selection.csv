@@ -1,0 +1,24 @@
+variable,n_columns,kept_min,kept_1se,block,status_1se
+AGRE,1,1,1,Big Five,kept
+CONS,1,1,1,Big Five,kept
+EMOS,1,1,1,Big Five,kept
+EXTR,1,1,1,Big Five,kept
+OPEM,1,1,0,Big Five,dropped
+PVAPS1,1,1,1,Cognitive skills,kept
+PVLIT1,1,1,1,Cognitive skills,kept
+PVNUM1,1,1,1,Cognitive skills,kept
+CNTRYID,11,11,11,Country (unpenalized),kept
+D2_Q07a,5,5,5,Job controls,kept
+D2_Q11,1,1,1,Job controls,kept
+ISCOSKIL4,3,3,3,Job controls,kept
+ISIC1C,20,18,12,Job controls,partly kept
+YRSGETC2,1,1,1,Job controls,kept
+AGEG10LFS,4,3,4,Personal controls,kept
+C2_Q10,1,1,1,Personal controls,kept
+EDCAT8_TC1,7,7,4,Personal controls,partly kept
+GENDER_R,1,1,1,Personal controls,kept
+IMGENC2,3,3,1,Personal controls,partly kept
+NATIVELANG,1,1,0,Personal controls,dropped
+NFE12C2,1,1,1,Personal controls,kept
+PAREDC2,2,2,1,Personal controls,partly kept
+PARTNER,1,1,1,Personal controls,kept

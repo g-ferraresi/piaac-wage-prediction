@@ -1,0 +1,7 @@
+# Raw and processed PIAAC data are not redistributed
+data/raw/
+data/processed/
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/

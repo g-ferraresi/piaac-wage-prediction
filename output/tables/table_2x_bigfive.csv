@@ -1,0 +1,6 @@
+trait,n,mean,sd,min,max
+Agreeableness,26336,0.06,0.983,-4.611,2.576
+Conscientiousness,26336,0.105,0.956,-4.539,2.156
+Emotional stability,26336,0.071,0.964,-3.301,2.882
+Extraversion,26336,0.068,0.975,-3.168,2.73
+Openness to experience,26336,0.02,0.971,-3.863,2.566
