@@ -2,7 +2,7 @@
 
 **A multilevel analysis using cross-national adult skills data (PIAAC Cycle 2)**
 
-MSc thesis in Analytics and Data Science for Economics and Management, University of Brescia (2026). Author: Gabriele Ferraresi.
+MSc thesis in Analytics and Data Science for Economics and Management, University of Brescia (2026). Author: Gabriele Ferraresi · Supervisor: Prof. Marica Manisera.
 
 How much do cognitive skills and personality traits explain wages, how much do their returns differ across countries, and does a multilevel model actually predict better than OLS or regularized regression? This repository contains the full R pipeline used to answer these three questions on **26,336 employees in 12 countries**.
 
